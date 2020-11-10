@@ -1,0 +1,17 @@
+C:\Users\Peregrino\source\repos\ExpensesApp\ExpensesApp\ExpensesApp\bin\Debug\netstandard2.0\ExpensesApp.deps.json
+C:\Users\Peregrino\source\repos\ExpensesApp\ExpensesApp\ExpensesApp\bin\Debug\netstandard2.0\ExpensesApp.dll
+C:\Users\Peregrino\source\repos\ExpensesApp\ExpensesApp\ExpensesApp\bin\Debug\netstandard2.0\ref\ExpensesApp.dll
+C:\Users\Peregrino\source\repos\ExpensesApp\ExpensesApp\ExpensesApp\bin\Debug\netstandard2.0\ExpensesApp.pdb
+C:\Users\Peregrino\source\repos\ExpensesApp\ExpensesApp\ExpensesApp\obj\Debug\netstandard2.0\ExpensesApp.csprojAssemblyReference.cache
+C:\Users\Peregrino\source\repos\ExpensesApp\ExpensesApp\ExpensesApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Peregrino\source\repos\ExpensesApp\ExpensesApp\ExpensesApp\obj\Debug\netstandard2.0\Views\CategoriesPage.xaml.g.cs
+C:\Users\Peregrino\source\repos\ExpensesApp\ExpensesApp\ExpensesApp\obj\Debug\netstandard2.0\Views\ExpensesPage.xaml.g.cs
+C:\Users\Peregrino\source\repos\ExpensesApp\ExpensesApp\ExpensesApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Peregrino\source\repos\ExpensesApp\ExpensesApp\ExpensesApp\obj\Debug\netstandard2.0\ExpensesApp.AssemblyInfoInputs.cache
+C:\Users\Peregrino\source\repos\ExpensesApp\ExpensesApp\ExpensesApp\obj\Debug\netstandard2.0\ExpensesApp.AssemblyInfo.cs
+C:\Users\Peregrino\source\repos\ExpensesApp\ExpensesApp\ExpensesApp\obj\Debug\netstandard2.0\ExpensesApp.dll
+C:\Users\Peregrino\source\repos\ExpensesApp\ExpensesApp\ExpensesApp\obj\Debug\netstandard2.0\ref\ExpensesApp.dll
+C:\Users\Peregrino\source\repos\ExpensesApp\ExpensesApp\ExpensesApp\obj\Debug\netstandard2.0\ExpensesApp.pdb
+C:\Users\Peregrino\source\repos\ExpensesApp\ExpensesApp\ExpensesApp\obj\Debug\netstandard2.0\Views\NewExpensePage.xaml.g.cs
+C:\Users\Peregrino\source\repos\ExpensesApp\ExpensesApp\ExpensesApp\obj\Debug\netstandard2.0\ExpensesApp.csproj.CoreCompileInputs.cache
+C:\Users\Peregrino\source\repos\ExpensesApp\ExpensesApp\ExpensesApp\obj\Debug\netstandard2.0\XamlC.stamp
